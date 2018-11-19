@@ -1,4 +1,4 @@
-main/local_constants.py
+core/local_constants.py
 credentials.json
 token.json
 .idea/
